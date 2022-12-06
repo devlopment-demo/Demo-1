@@ -1,0 +1,18 @@
+Connect a GitHub Cloud or GitHub Enterprise Cloud account to Jira Software
+You can integrate Jira Cloud with GitHub Cloud or GitHub Enterprise Cloud using the Marketplace app. Linking between these accounts gives you quick, direct access to branches, commits, pull requests, builds and deployments while viewing Jira Software tickets in planning and during standups.
+
+You can learn more about the integration and raises issues via the open source repository on GitHub, or contact the Atlassian team for help.
+
+To connect a GitHub Cloud Organization with Jira Software:
+
+Install the (free) GitHub for Jira app from the Atlassian Marketplace and follow the instructions to complete the installation.
+
+Select Get started to go to the GitHub configuration page (or go to Apps > Manage apps and select Configure integration in the GitHub menu).
+
+Select Connect GitHub organization.
+
+Find the GitHub organization you want to integrate with and select Connect, or select Install GitHub for Jira on a new organization to install the GitHub for Jira app on another GitHub organization.
+
+Back on your GitHub configuration page, select Connect GitHub organization again and click Connect next to the organization you want to connect to your Jira site.
+
+Once your organization is successfully connected, you’ll see it on the GitHub configuration page in Jira:
